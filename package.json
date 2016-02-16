@@ -13,6 +13,7 @@
     "node": "5.x"
   },
   "dependencies": {
+    "crypto": "0.0.3",
     "express": "^4.13.4",
     "mongoose": "^4.4.3"
   },
