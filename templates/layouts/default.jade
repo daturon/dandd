@@ -59,14 +59,7 @@ html(lang="ru")
 						li: a(href="/contact") Контакты
 
 		//- HEADER
-		header.intro-header(style={background: '#0085a1'})
-			.container
-				.row
-					.col-lg-8.col-lg-offset-2.col-md-10.col-md-offset-1
-						.site-heading
-							h1 Дизайн и разработка
-							hr.small
-							span.subheading (Design and Development)
+		block header
 
 			//- Customise your site's navigation by changing the navLinks Array in ./routes/middleware.js
 			//- ... or completely change this header to suit your design.
@@ -87,7 +80,6 @@ html(lang="ru")
 
 			//- The content block should contain the body of your template's content
 			block content
-
 
 		//- FOOTER
 		footer
