@@ -1,3 +1,3 @@
-# DandD
+# DandD (Design and development)
 
-Мой блог и прочие полезности.
+My blog and other useful stuff.
