@@ -292,7 +292,7 @@ class WP_Press_This {
 			),
 			'link' => array(
 				'rel'      => true,
-				'itemprop' => true,
+				'itemprop' => false,
 				'href'     => true,
 			),
 			'meta' => array(

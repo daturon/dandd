@@ -892,7 +892,6 @@ function get_custom_logo( $blog_id = 0 ) {
 			esc_url( home_url( '/' ) ),
 			wp_get_attachment_image( $custom_logo_id, 'full', false, array(
 				'class'    => 'custom-logo',
-				'itemprop' => 'logo',
 			) )
 		);
 	}
