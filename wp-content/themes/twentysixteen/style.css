@@ -2426,14 +2426,6 @@ body.search-no-results .page-header {
 	font-weight: 400;
 }
 
-.site-footer .site-title:after {
-	content: "\002f";
-	display: inline-block;
-	font-family: Montserrat, sans-serif;
-	opacity: 0.7;
-	padding: 0 0.307692308em 0 0.538461538em;
-}
-
 
 /**
  * 12.0 - Media
